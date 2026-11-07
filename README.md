@@ -8,11 +8,11 @@ Los datos públicos se centralizan en `assets/config.js`:
 
 - Titular y desarrollador: `Ezequiel Galán`.
 - Correo público: `videopublisher.zackigm@gmail.com`.
-- Fecha efectiva: `21 de agosto de 2026` / `August 21, 2026`.
+- Fecha efectiva: `7 de noviembre de 2026` / `November 7, 2026`.
 
 El nombre legal deberá coincidir con la identidad verificada en Google Play Console. Si cambia, basta con modificar `developerName` en `assets/config.js`.
 
-Revisa el texto con asesoramiento jurídico si la aplicación cambia, incorpora publicidad, pagos, analítica, servidores propios o nuevos tratamientos de datos.
+Revisa el texto con asesoramiento jurídico si la aplicación cambia, incorpora publicidad, suscripciones, analítica o nuevos tratamientos de datos.
 
 ## Publicar con GitHub Pages
 
@@ -34,3 +34,4 @@ Cuando compres el dominio, añade un archivo `CNAME` con el dominio y configura 
 - Retirada de acceso y eliminación de datos: `/deletion.html`
 
 La aplicación no crea una cuenta propia. La página de eliminación explica cómo revocar OAuth y borrar los datos locales.
+
