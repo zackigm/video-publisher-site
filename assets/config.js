@@ -1,6 +1,7 @@
 window.SITE_CONFIG = {
   developerName: "Ezequiel Galán",
   supportEmail: "videopublisher.zackigm@gmail.com",
-  effectiveDateEs: "21 de agosto de 2026",
-  effectiveDateEn: "August 21, 2026"
+  effectiveDateEs: "7 de noviembre de 2026",
+  effectiveDateEn: "November 7, 2026"
 };
+
